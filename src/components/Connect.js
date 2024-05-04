@@ -50,8 +50,8 @@ function Connect() {
             })
         }
         else {
-            console.log("Please install metamask")
-            window.alert("Please Install Metamask")
+            console.log("Please install wallet")
+            window.alert("Please Install wallet")
         }
     }
 
